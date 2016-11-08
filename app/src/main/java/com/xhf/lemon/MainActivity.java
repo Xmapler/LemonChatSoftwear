@@ -23,7 +23,7 @@ public class MainActivity extends FragmentActivity {
     TextView text1;
     @BindView(R.id.text2)
     TextView text2;
-    private String token = "W5JlcOCcw4kXTNyaRyVR3wEA4y/m78gvjSX8jGuecVceaMGDiJGThw9ib4kd6ZRN5xAX8V7nfzaoFdGAidhlAw==";
+    private String token = "226xJrYuNKQNThlfck6IlwEA4y/m78gvjSX8jGuecVceaMGDiJGTh/DNBFNZi9zsSK/Zk1RS6USoFdGAidhlAw==";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

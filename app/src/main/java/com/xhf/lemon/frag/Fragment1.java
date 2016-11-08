@@ -37,7 +37,7 @@ public class Fragment1 extends Fragment {
     @OnClick(R.id.f1_click)
     public void onClick() {
         if (RongIM.getInstance() != null) {
-            RongIM.getInstance().startPrivateChat(getActivity(), "24", "hello");
+            RongIM.getInstance().startPrivateChat(getActivity(), "0701", "hello");
         }
     }
 }
